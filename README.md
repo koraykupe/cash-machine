@@ -1,9 +1,9 @@
 # Instructions
-Run `composer install` to install the project
-Run `phpunit` to run tests
+* Run `composer install` to install the project
+* Run `phpunit` to run tests
 
 # Requirements
-PHP 7.1+
+* PHP 7.1+
 
 # Description
 * There is no any frontend interface for cash machine
