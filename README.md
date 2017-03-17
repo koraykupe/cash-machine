@@ -9,6 +9,7 @@ PHP 7.1+
 * There is no any frontend interface for cash machine
 * You can run tests to check the code
 * Although it looks like useless I implemented an interface. Because all cash machines (ATMs) must have withdraw function.
+* Available Notes are hardcoded in the class 
 
 # Todo
 * A basic web interface
