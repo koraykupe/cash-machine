@@ -1,11 +1,9 @@
-<?php
+<?php declare(strict_types=1);
 
 namespace CashMachine;
 use CashMachine\Contract\CashMachineInterface;
 use CashMachine\Exception\NoteUnavailableException;
 use Doctrine\Instantiator\Exception\InvalidArgumentException;
-
-declare(strict_types=1);
 
 /**
  * Class CashMachine
